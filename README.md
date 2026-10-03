@@ -36,7 +36,7 @@ May 2026 - June 2026
 - Full Stack Development
 - Operating Systems
 
-Coding Profiles
+#Coding Profiles
 -Leetcode (https://leetcode.com/u/harini_shah/)
 -Codeforces (https://codeforces.com/profile/harini_shah)
 
