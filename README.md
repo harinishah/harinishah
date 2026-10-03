@@ -38,6 +38,7 @@ May 2026 - June 2026
 
 Coding Profiles
 -Leetcode (https://leetcode.com/u/harini_shah/)
+
 -Codeforces (https://codeforces.com/profile/harini_shah)
 
 #Certifications 
@@ -47,4 +48,5 @@ Coding Profiles
  
 #Connect with me
 -LinkedIn (https://www.linkedin.com/in/harini-shah-04b6593a3)
+
 -Email: harinishah2007@gmail.com
